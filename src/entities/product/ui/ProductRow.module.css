@@ -1,0 +1,7 @@
+.productName {
+    color: green;
+  }
+  
+  .productNameOutOfStock {
+    color: red;
+  }
